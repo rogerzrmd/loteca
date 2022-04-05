@@ -1,0 +1,8 @@
+# Projeto Loteca
+É um simulador de loteria, no qual o usuário digita 6 números, realizando um sorteio de outros 6 números.
+No final, é verificado o número de acertos.
+
+## Tecnologias Utilizadas
+- **HTML**: estrutura do site;
+- _CSS_: estilo do site;
+- *_JS_*: funções do site;
